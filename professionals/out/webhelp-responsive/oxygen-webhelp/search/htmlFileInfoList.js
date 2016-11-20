@@ -1,0 +1,13 @@
+fil = new Array();
+fil["0"]= "professionals/c-goals.html@@@Goals and Satisfaction Guarantee@@@Here at AirClassroom, our #1 goal is to provide you with an excellent experience...";
+fil["1"]= "professionals/c-intro.html@@@Introduction to AirClassroom@@@Wondering what AirClassroom is all about? You&apos;ve come to the right place!...";
+fil["2"]= "professionals/c-prices.html@@@Prices and Booking@@@To book with AirClassroom, there are certain fees and requirements...";
+fil["3"]= "professionals/c-rooms.html@@@Room Characteristics and Features@@@What can you expect from an AirClassroom rental?...";
+fil["4"]= "professionals/c-terms.html@@@Terms and Policies@@@What you agree to when using AirClassroom...";
+fil["5"]= "professionals/t-account.html@@@Creating an Account@@@How to set up an AirClassroom account so you can start booking today!...";
+fil["6"]= "professionals/t-booking.html@@@Booking a Reservation@@@Information on how to book a reservation with AirClassroom...";
+fil["7"]= "professionals/t-computers.html@@@Using the Computers@@@The computers found in Shanks 360 & 180 are powerful resources you will want to take advantage of...";
+fil["8"]= "professionals/t-connecting.html@@@Connecting to the Virginia Tech server/Wi-Fi@@@Need to connect to the Internet when renting with AirClassroom? Here&apos;s how!...";
+fil["9"]= "professionals/t-projector.html@@@Setting up the Overhead Projector@@@Need to use the overhead projector for a presentation or seminar? We&apos;ve got you covered...";
+fil["10"]= "professionals/ts-faqs.html@@@Frequently Asked Questions@@@Here are a few frequently asked questions by AirClassroom users. Is there a limit on how many reservations I can book within a week? Yes, there is a weekly limit on reservations. AirClassroom users...";
+fil["11"]= "professionals/ts-reservations.html@@@Cancelling or Rescheduling Reservations@@@Have a problem with your reservation and need to cancel? Something come up and you need to reschedule? Here&apos;s what to do. Cancelling a reservation with AirClassroom Here at AirClassroom, we understand...";

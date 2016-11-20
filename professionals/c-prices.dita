@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_frs_qbz_yx">
+ <title>Prices and Booking</title>
+ <shortdesc>To book with AirClassroom, there are certain fees and requirements.</shortdesc>
+ <conbody>
+  <section id="section_ky2_zbz_yx">
+   <title>Prices</title>
+   <p>When you book a reservation with AirClassroom, the price of your reservation is determined by
+    how many hours you plan on using the classroom at a rate of <b>$25/hr</b>.<dl>
+     <dlentry>
+      <dt>Example:</dt>
+      <dd>If you want to use Shanks 360 for 4 hours, the price for your reservation will be $25 x 4,
+       or $100.</dd>
+     </dlentry>
+    </dl></p>
+  </section>
+  <section id="section_yvh_4cz_yx">
+   <title>Requirements</title>
+   <sl>
+    <sli>- When you book with AirClassroom, you must provide a valid method of payment.</sli>
+    <sli>- You must book a reservation for 1-8 hours, between the hours of 9 a.m. and 5 p.m., Monday
+     through Friday.</sli>
+    <sli>- You can only book one room at a time when using AirClassroom.</sli>
+   </sl>
+  </section>
+ </conbody>
+</concept>

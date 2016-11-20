@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_otm_r2z_yx">
+    <title>Setting up the Overhead Projector</title>
+    <shortdesc>Need to use the overhead projector for a presentation or seminar? We've got you
+        covered.</shortdesc>
+    <taskbody>
+        <context>How to set up the overhead projector for use.</context>
+        <steps>
+            <step>
+                <cmd>Turn the projector on by pressing the "Power" button</cmd>
+            </step>
+            <step>
+                <cmd>You should receive a notification of connection on the host computer</cmd>
+            </step>
+            <step>
+                <cmd>Once you are connected, start the projector's "Control Panel" application on
+                    your computer</cmd>
+            </step>
+            <step>
+                <cmd>Project your screen onto the whiteboard</cmd>
+            </step>
+            <step>
+                <cmd>Adjust the lens and zoom to appropriate parameters in "Control Panel"</cmd>
+            </step>
+            <step>
+                <cmd>Make sure the resolution is set to 1366x768 pixels for optimal quality in
+                    "Control Panel"</cmd>
+            </step>
+        </steps>
+        <result id="result_bqg_jgg_zx">There you have it! By following those instructions, you
+            should be able to set up and start the overhead projector for use.<image
+                placement="break" href="../4.jpg" align="center" id="image_fd3_tgg_zx"/></result>
+        <postreq id="postreq_mnp_yhg_zx">Make sure to turn off the projector by pressing the "Power"
+            button before leaving the classroom.</postreq>
+    </taskbody>
+</task>

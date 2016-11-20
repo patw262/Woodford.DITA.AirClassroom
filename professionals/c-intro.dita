@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tj2_zzy_yx">
+ <title>Introduction to AirClassroom</title>
+ <shortdesc>Wondering what AirClassroom is all about? You've come to the right place!</shortdesc>
+  <conbody><image
+    href="../2.jpeg" id="image_ytw_j5f_zx"/>
+  <section id="section_b4h_m1z_yx">
+   <title>What is AirClassroom?</title>
+   <p>AirClassroom is a service provided by Virginia Tech that allows professionals to rent
+    classrooms for use, similar to AirBnB (a popular home and apartment rental service). The
+    classrooms currently available for rental are Shanks Hall rooms 360 and 180.</p>
+  </section>
+  <section id="section_ztd_51z_yx">
+   <title>How does AirClassroom help you achieve your goals?</title>
+   <p>By using AirClassroom, you are granted access to state-of-the-art facilities at Virginia Tech.
+    With access to these rooms and the technology in them, you will have the resources and space you
+    need to achieve success.</p>
+  </section>
+  <section id="section_ztz_xrf_zx">
+   <title>What information should I expect to be able to find on this website?</title>
+   <sl>
+    <sli>- AirClassroom prices rates and booking information</sli>
+    <sli>- Important terms and policies to know when booking with AirClassroom</sli>
+    <sli>- Descriptions of the classrooms and technology you should expect when renting with
+     AirClassroom</sli>
+    <sli>- Our goals and satisfaction guarantee for your renting experience</sli>
+    <sli>- How to set up an account with AirClassroom</sli>
+    <sli>- How to book a reservation with AirClassroom</sli>
+    <sli>- How to connect to the Virginia Tech server and Wi-Fi when using an AirClassroom</sli>
+    <sli>- How to set up the overhead projector for use in an AirClassroom</sli>
+    <sli>- How to use the computers found in an AirClassroom</sli>
+    <sli>- Information on cancelling or rescheduling your reservation</sli>
+    <sli>- Frequently asked questions by users like you!</sli>
+   </sl>
+  </section>
+ </conbody>
+</concept>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_dch_npf_zx">
+    <title>Using the Computers</title>
+    <shortdesc>The computers found in Shanks 360 &amp; 180 are powerful resources you will want to
+        take advantage of.</shortdesc>
+    <taskbody>
+        <context>Here are instructions on how to use AirClassroom computers.<image href="../5.jpg"
+                scale="50" id="image_vdx_yjb_1y"/></context>
+        <steps>
+            <step>
+                <cmd>Turn on the computer by pressing the "Power" button.</cmd>
+                <stepresult>You will be automatically redirected to the home screen without needing
+                    to enter a username or password.</stepresult>
+            </step>
+            <step>
+                <cmd>Select the program you would like to use from the Applications folder or
+                    desktop toolbar.</cmd>
+                <stepresult>Your program will start and you will be ready to go!</stepresult>
+            </step>
+            <step>
+                <cmd>IMPORTANT STEP: When saving, do so with a personal flash or hard drive.</cmd>
+                <stepresult>Program data on AirClassroom computers is erased at the end of each day,
+                    so your files will not be saved unless you do so on a separate personal
+                    drive.</stepresult>
+            </step>
+            <step>
+                <cmd>When you're finished working, turn of the computer by clicking on the "Apple"
+                    icon and selecting "Shut Down".</cmd>
+            </step>
+        </steps>
+        <result id="result_ksw_xkb_1y">You will have have the basic knowledge of how to start up and
+            shut down the AirClassroom computers, as well as vital information about saving your
+            important files.</result>
+    </taskbody>
+</task>

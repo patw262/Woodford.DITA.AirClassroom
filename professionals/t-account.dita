@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_nbk_k2z_yx">
+    <title>Creating an Account</title>
+    <shortdesc>How to set up an AirClassroom account so you can start booking today!</shortdesc>
+    <taskbody>
+        <context>To get started, you need an account first. It's simple &amp; easy! Follow these
+            instructions and you'll be good to go.</context>
+        <steps>
+            <step>
+                <cmd>Visit our website at http://www.airclassroom.vt.edu</cmd>
+            </step>
+            <step>
+                <cmd>Click "Sign Up"</cmd>
+            </step>
+            <step>
+                <cmd>Provide us with your first and last name, along with your date of birth</cmd>
+            </step>
+            <step>
+                <cmd>Specify that you're a professional</cmd>
+            </step>
+            <step>
+                <cmd>Provide us with a valid email address</cmd>
+            </step>
+        </steps>
+        <result id="result_sch_ncg_zx">After receiving this information from you, we will email you
+            with a temporary username and password to use for your initial login.</result>
+        <example>Username- ACreservation065 Password- gohokies_112</example>
+        <postreq id="postreq_sst_l3g_zx">After logging in, you may change your username and password
+            to whatever you like, and you're ready to book with AirClassroom!<fig
+                id="fig_ibx_r3g_zx">
+                <title>&quot;That was easy!&quot; - AirClassroom customers</title>
+                <image placement="break" href="../3.jpg" scale="10" align="center"
+                    id="image_jbx_r3g_zx"/>
+            </fig></postreq>
+    </taskbody>
+</task>

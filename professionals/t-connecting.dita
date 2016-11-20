@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_nzf_p2z_yx">
+    <title>Connecting to the Virginia Tech server/Wi-Fi</title>
+    <shortdesc>Need to connect to the Internet when renting with AirClassroom? Here's
+        how!</shortdesc>
+    <taskbody>
+        <context>You will need a temporary username and password when logging in to the Virginia
+            Tech server.</context>
+        <steps>
+            <step>
+                <cmd>Log in to your AirClassroom account</cmd>
+            </step>
+            <step>
+                <cmd>Click "Settings" on the Main Menu</cmd>
+            </step>
+            <step>
+                <cmd>In "Settings", select "Connecting to the Network"</cmd>
+            </step>
+            <step>
+                <cmd>In "Connecting to the Network", select "Obtain Temporary Login"</cmd>
+            </step>
+            <step>
+                <cmd>Select the reservation you would like access to the VT server/Wi-Fi
+                    during</cmd>
+            </step>
+        </steps>
+        <result id="result_i1q_cfg_zx">After confirming this information, we will send you a
+            username and password that you will use to log in to the Virginia Tech server/Wi-Fi.
+            This login information will only be valid during your reservation and only for the
+            duration of your reservation. Each time you request access to the network for a
+            different reservation, we will provide you with a unique username and password. This is
+            done to protect Virginia Tech's server and prevent overloading.</result>
+        <postreq id="postreq_z1d_b3g_zx">Once you log in with your network username and password,
+            all of the computers in the classroom will have access to the Virginia Tech server and
+            Wi-Fi for the duration of your reservation.</postreq>
+    </taskbody>
+</task>
