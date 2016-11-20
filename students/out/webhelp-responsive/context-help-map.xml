@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_tj2_zzy_yx" path="c-intro.html"/>
+   <appContext helpID="concept_frs_qbz_yx" path="c-prices.html"/>
+   <appContext helpID="concept_j3h_wdz_yx" path="c-terms.html"/>
+   <appContext helpID="concept_jhw_xdz_yx" path="c-rooms.html"/>
+   <appContext helpID="concept_gyh_c2z_yx" path="c-goals.html"/>
+   <appContext helpID="task_nbk_k2z_yx" path="t-account.html"/>
+   <appContext helpID="task_tfv_m2z_yx" path="t-booking.html"/>
+   <appContext helpID="task_nzf_p2z_yx" path="t-connecting.html"/>
+   <appContext helpID="task_otm_r2z_yx" path="t-projector.html"/>
+   <appContext helpID="task_dch_npf_zx" path="t-computers.html"/>
+   <appContext helpID="trouble_exb_52z_yx" path="ts-reservations.html"/>
+   <appContext helpID="trouble_dlt_w2z_yx" path="ts-faqs.html"/>
+</map>

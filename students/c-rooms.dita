@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jhw_xdz_yx">
+ <title>Room Characteristics and Features</title>
+ <shortdesc>What can you expect from an AirClassroom rental?</shortdesc>
+ <conbody>
+  <section id="section_xwd_3xf_zx">
+   <title>Computers</title>
+   <p>Shanks Hall rooms 360 and 180 are equipped with iMac desktop computers, ideal for academic
+        use. These computers are pre-loaded with software ranging from Adobe Creative Cloud and MS
+        Office, to GarageBand. Feel free to load your own programs and files onto the computers, but
+        unless you save on a personal hard drive your files will be erased when the computer shuts
+        down.</p>
+  </section>
+  <section id="section_zs4_yxf_zx">
+   <title>Overhead Projector</title>
+   <p>There is an overhead projector in both Shanks 360 and 180. Please see the page titled "Setting
+        up the Overhead Projector" for information on how to set up the projector. This machine is
+        very useful for presentations, projects and more. Please make sure the projector is turned
+        off when you finish using it!</p>
+  </section>
+  <section id="section_bfk_fyf_zx">
+   <title>Wi-Fi</title>
+   <p>By renting a classroom with AirClassroom, you will have access to the Virginia Tech Wi-Fi
+    server. Each time you rent, we provide you with unique login information. This username and
+    password will only be active for the duration of your reservation, and will grant you access to
+    the Internet. We ask that you please use it responsibly, and always be careful of harmful files
+    or viruses.<fig id="fig_by4_syf_zx">
+     <image placement="break" href="../1.jpg" align="center" id="image_cy4_syf_zx"/>
+    </fig></p>
+  </section>
+ </conbody>
+</concept>

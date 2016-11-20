@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j3h_wdz_yx">
+ <title>Terms and Policies</title>
+ <shortdesc>What you agree to when using AirClassroom.</shortdesc>
+ <conbody>
+  <section id="section_eqs_cvf_zx">
+   <title>When using AirClassroom, you agree to the following...</title>
+   <sl>
+    <sli>- To <b>only</b> use your reserved room for the purpose you specify when booking. <b>No
+      parties!</b></sli>
+    <sli>- To leave the classroom exactly as you found it after use. <b>Clean it up for the next
+      person!</b></sli>
+    <sli>- To respect Virginia Tech's property by proper use and care. <b>If you break it, you buy
+      it!</b></sli>
+   </sl>
+  </section>
+  <section id="section_uxc_nwf_zx">
+   <title>AirClassroom policies regarding reservations</title>
+   <sl>
+    <sli>- When you book with AirClassroom, we expect that you and only those affiliated with you
+     use the classroom. Please do not sell or give your reservation to another party, as we have
+     cancellation and transfer protocol for such situations.</sli>
+    <sli>- You must have at least one person occupying your AirClassroom at all times during the
+     length of your reservation.</sli>
+    <sli>- If you're confused about something, never assume. Always check our troubleshooting pages
+          found on this website. If you can't find the answer there, please feel free to contact us
+          at <b>airclassroom@vt.edu or 1-800-AIRVT</b>.</sli>
+   </sl>
+  </section>
+ </conbody>
+</concept>

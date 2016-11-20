@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>AirClassroom</title>
+ <keydef keys="AirClassroom"></keydef>
+ <topichead navtitle="About"><topicref href="c-intro.dita"/>
+  <topicref href="c-prices.dita"/>
+  <topicref href="c-terms.dita"/>
+  <topicref href="c-rooms.dita"/>
+  <topicref href="c-goals.dita"/></topichead>
+ <topichead navtitle="For Students"><topicref href="t-account.dita"/>
+  <topicref href="t-booking.dita"/>
+  <topicref href="t-connecting.dita"/><topicref href="t-projector.dita"/> <topicref href="t-computers.dita"/></topichead>
+ <topichead navtitle="Troubleshooting"><topicref href="ts-reservations.dita"/>
+  <topicref href="ts-faqs.dita"/></topichead>
+ </map>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_tfv_m2z_yx">
+    <title>Booking a Reservation</title>
+    <shortdesc>Information on how to book a reservation with AirClassroom.</shortdesc>
+    <taskbody>
+        <context>If you have an account, follow these instructions to book a classroom for use. If
+            you don't have an account, please see our page titled "Creating an Account"</context>
+        <steps>
+            <step>
+                <cmd>Log in to your AirClassroom account</cmd>
+            </step>
+            <step>
+                <cmd>Select "New Reservation" from the Main Menu</cmd>
+            </step>
+            <step>
+                <cmd>Select a date and time range you would like to reserve a classroom</cmd>
+            </step>
+            <step>
+                <cmd>Provide us with a brief description of what you plan on using the classroom
+                    for</cmd>
+            </step>
+            <step>
+                <cmd>Enter a valid method of payment or select a saved method (returning
+                    customers)</cmd>
+            </step>
+        </steps>
+        <result id="result_ov4_c2g_zx">Boom! Your reservation is booked with AirClassroom. We'll
+            send you a confirmation email as well as provide you with a printable confirmation page
+            for your records.</result>
+        <postreq id="postreq_evw_c3g_zx">All you have to do now is show up to the classroom you
+            rented on the day and time you reserved it for, and leave when your reservation expires!
+            Simple as that.</postreq>
+    </taskbody>
+</task>

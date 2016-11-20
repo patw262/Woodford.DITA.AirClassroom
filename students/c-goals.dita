@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gyh_c2z_yx">
+ <title>Goals and Satisfaction Guarantee</title>
+ <shortdesc>Here at AirClassroom, our #1 goal is to provide you with an excellent
+  experience.</shortdesc>
+ <conbody>
+  <p>
+   <dl>
+    <dlentry>
+     <dt>AirClassroom Goals</dt>
+     <dd>1. To provide the customer with an excellent rental experience.</dd>
+     <dd>2. To ensure the customer has what they need to succeed.</dd>
+     <dd>3. To appeal to a wide range of potential clients.</dd>
+     <dd>4. Represent the core values and principles of community at Virginia Tech.</dd>
+     <dd>5. Provide students and professionals with a service that they will recommend to others.<sl>
+       <sli><i>If you believe we are not adhering or accomplishing any of these goals, let us know
+                  how we can improve!</i></sli>
+      </sl></dd>
+    </dlentry>
+   </dl>
+  </p>
+  <section id="section_fq1_11g_zx">
+   <title>Satisfaction Guarantee</title>
+   <p>AirClassroom provides customers with a 100% satisfaction guarantee. If you are not completely
+    satisfied with your rental experience, let us know why. If your reasoning is determined to be
+    adequate and understandable, we will provide you with a full refund and encourage you to suggest
+    how we improve to better meet you and others' needs.</p>
+  </section>
+ </conbody>
+</concept>
