@@ -16,9 +16,12 @@
   <topicref href="t-connecting.dita"/>
   <topicref href="t-projector.dita"/>
   <topicref href="t-computers.dita"/>
+  <topicref href="t-ipads.md" format="markdown"/>
  </topichead>
  <topichead navtitle="Troubleshooting">
   <topicref href="ts-reservations.dita"/>
   <topicref href="ts-faqs.dita"/>
+  <topicref href="c-insurancepolicy.dita"/>
+  <topicref href="c-lostitems.dita"/>
  </topichead>
 </map>
