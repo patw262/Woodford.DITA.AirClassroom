@@ -10,6 +10,11 @@
    <appContext helpID="task_nzf_p2z_yx" path="t-connecting.html"/>
    <appContext helpID="task_otm_r2z_yx" path="t-projector.html"/>
    <appContext helpID="task_dch_npf_zx" path="t-computers.html"/>
+   <appContext helpID="renting_ipads" path="t-ipads.html"/>
+   <appContext helpID="renting_laptops" path="t-laptops.html"/>
+   <appContext helpID="renting_video_cameras" path="t-videocameras.html"/>
    <appContext helpID="trouble_exb_52z_yx" path="ts-reservations.html"/>
    <appContext helpID="trouble_dlt_w2z_yx" path="ts-faqs.html"/>
+   <appContext helpID="topic_dl1_qlr_fy" path="c-insurancepolicy.html"/>
+   <appContext helpID="topic_pcr_lsr_fy" path="c-lostitems.html"/>
 </map>
