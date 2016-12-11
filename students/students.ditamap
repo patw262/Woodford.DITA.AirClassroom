@@ -11,7 +11,9 @@
  <topichead navtitle="For Students"><topicref href="t-account.dita"/>
   <topicref href="t-booking.dita"/>
   <topicref href="t-connecting.dita"/><topicref href="t-projector.dita"/> <topicref href="t-computers.dita"/>
-  <topicref href="t-ipads.md" format="markdown"/></topichead>
+  <topicref href="t-ipads.md" format="markdown"/>
+  <topicref href="t-laptops.md" format="markdown"/>
+  <topicref href="t-videocameras.md" format="markdown"/></topichead>
  <topichead navtitle="Troubleshooting"><topicref href="ts-reservations.dita"/>
   <topicref href="ts-faqs.dita"/>
   <topicref href="c-insurancepolicy.dita"/>
